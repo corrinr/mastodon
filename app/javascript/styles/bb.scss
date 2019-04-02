@@ -1,0 +1,60 @@
+// Changed colors
+$classic-base-color: hsl(272, 25%, 7%);         // Blackberry Custom BG
+$white: lighten($classic-base-color, 68%);            // White
+$classic-primary-color: lighten($classic-base-color, 55%);      // Echo Blue
+$classic-secondary-color: lighten($classic-base-color, 81%);    // Pattens Blue
+$classic-highlight-color: lighten($classic-base-color, 43%);    // Summer Sky
+
+// Updating dependant variables
+$base-border-color: $white !default;
+$simple-background-color: $white !default;
+$ui-base-color: $classic-base-color !default;                  // Darkest
+$ui-base-lighter-color: lighten($ui-base-color, 26%) !default; // Lighter darkest
+$ui-primary-color: $classic-primary-color !default;            // Lighter
+$ui-secondary-color: $classic-secondary-color !default;        // Lightest
+$ui-highlight-color: $classic-highlight-color !default;
+$primary-text-color: $white !default;
+$darker-text-color: $ui-primary-color !default;
+$dark-text-color: $ui-base-lighter-color !default;
+$secondary-text-color: $ui-secondary-color !default;
+$highlight-text-color: $ui-highlight-color !default;
+$action-button-color: $ui-base-lighter-color !default;
+$inverted-text-color: $ui-base-color !default;
+$lighter-text-color: $ui-base-lighter-color !default;
+$light-text-color: $ui-primary-color !default;
+
+
+@import 'application';
+
+// Misc changes
+
+.boost-modal,
+.confirmation-modal,
+.report-modal,
+.actions-modal,
+.mute-modal {
+  background: $ui-base-lighter-color;
+  .status.light {
+    .display-name strong,
+    .status__content {
+      color: $primary-text-color;
+    }
+    .display-name strong {
+      font-weight: bold;
+    }
+  }
+}
+
+.boost-modal__action-bar,
+.confirmation-modal__action-bar,
+.mute-modal__action-bar {
+ background: darken($ui-base-lighter-color, 10%);
+ & > div {
+  color: lighten($lighter-text-color, 10%);
+ }
+}
+
+.button {
+ background-color: $ui-base-color;
+ font-weight: bold;
+}

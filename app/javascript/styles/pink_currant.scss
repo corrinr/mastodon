@@ -1,0 +1,182 @@
+$base-color: hsl(9, 100%, 45%);
+$secondary-color: hsl(150, 70%, 70%);
+
+// Commonly used web colors
+$black: darken($base-color, 45%);            // Black
+$white: lighten($base-color, 45%);            // White
+$success-green: #79bd9a !default;    // Padua
+$error-red: #df405a !default;        // Cerise
+$warning-red: #ff5050 !default;      // Sunset Orange
+$gold-star: lighten(#ca8f04, 30%);        // Dark Goldenrod
+
+// Values from the classic Mastodon UI
+$classic-base-color: lighten($base-color, 49%);         // Midnight Express
+$classic-primary-color: #9baec8;      // Echo Blue
+$classic-secondary-color: #d9e1e8;    // Pattens Blue
+$classic-highlight-color: #2b90d9;    // Summer Sky
+
+// Variables for defaults in UI
+$base-shadow-color: $black;
+$base-overlay-background: $black;
+$base-border-color: $white;
+$simple-background-color: $white;
+$valid-value-color: $success-green;
+$error-value-color: $error-red;
+
+// Tell UI to use selected colors
+$ui-base-color: $classic-base-color;                  // Darkest
+$ui-base-lighter-color: darken($ui-base-color, 20%); // Lighter darkest
+$ui-primary-color: lighten($base-color, 25%);            // Lighter
+$ui-secondary-color: lighten($base-color, 40%);        // Lightest
+$ui-highlight-color: lighten($classic-highlight-color, 20%);
+
+// Variables for texts
+$primary-text-color: lighten($base-color, 13%);
+$darker-text-color: lighten($base-color, 14%);
+$dark-text-color: lighten($base-color, 28%);
+$secondary-text-color: $base-color;
+$highlight-text-color: $ui-highlight-color;
+$action-button-color: $ui-base-lighter-color;
+// For texts on inverted backgrounds
+$inverted-text-color: $ui-base-color;
+$lighter-text-color: $ui-base-lighter-color;
+$light-text-color: $ui-primary-color;
+
+// Light Theme Variables
+$account-background-color: $white;
+
+
+@import 'application';
+
+.compose-form {
+  .autosuggest-textarea__textarea,
+  .spoiler-input__input {
+    color: gray;
+    background: $simple-background-color;
+  }
+}
+
+.column > .scrollable {
+  background: lighten($base-color, 51%);
+}
+
+.column-header,
+.column-header__button,
+.drawer__header,
+.drawer__inner__mastodon,
+.drawer__inner {
+  background-color: lighten($ui-base-color, 5%);
+}
+
+.focusable div.status.status-direct:not(.read) {
+  background-color: lighten($ui-base-color, 4%);
+  &.muted {
+    background: transparent;
+  }
+  .detailed-status,
+  .detailed-status__action-bar {
+    background: lighten($ui-base-color, 5%);
+  }
+}
+
+.button {
+  background-color: $secondary-color;
+  color: $white;
+}
+
+.compose-form {
+  .compose-form__buttons-wrapper {
+    background: lighten($simple-background-color, 3%);
+  }
+}
+
+.boost-modal,
+.confirmation-modal,
+.report-modal,
+.actions-modal,
+.mute-modal {
+  background: $ui-base-color;
+  .status.light {
+    .display-name strong,
+    .status__content {
+      color: $primary-text-color;
+    }
+    .display-name strong {
+      font-weight: bold;
+    }
+  }
+}
+
+.boost-modal__action-bar,
+.confirmation-modal__action-bar,
+.mute-modal__action-bar {
+ background: darken($ui-base-color, 5%);
+ & > div {
+  color: darken($lighter-text-color, 10%);
+ }
+}
+
+.media-spoiler {
+  background: $simple-background-color;
+}
+
+.icon-button.overlayed {
+  background: rgba(darken($ui-base-color, 5%), 0.7);
+    color: $primary-text-color;
+  &:hover {
+    background: rgba(darken($ui-base-color, 5%), 1);
+  }
+}
+
+.simple_form {
+  button,
+  .button,
+  .block-button {
+    color: $white;
+  }
+}
+
+.react-toggle-track {
+  background: $simple-background-color;
+}
+
+.react-toggle-thumb {
+  background-color: darken($simple-background-color, 5%);
+}
+
+.compose-form__warning,
+.reply-indicator__content {
+  a,
+  .mention {
+    color: lighten($base-color, 44%) !important;
+  }
+}
+
+html {
+  scrollbar-color: $simple-background-color, $ui-base-color;
+}
+
+::-webkit-scrollbar-thumb:active,
+::-webkit-scrollbar-thumb:hover,
+::-webkit-scrollbar-thumb {
+  background: $simple-background-color;
+}
+
+::-webkit-scrollbar-track:active,
+::-webkit-scrollbar-track:hover,
+::-webkit-scrollbar-track {
+  background: $ui-base-color;
+}
+
+.emoji-mart {
+  color: $primary-text-color;
+}
+
+body > div:not(#mastodon) em {
+  color: $secondary-text-color;
+}
+
+.dropdown-menu__item a {
+  color: white;
+  font-weight: bolder;
+}
