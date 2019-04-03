@@ -1,3 +1,7 @@
 default: styles/application.scss
 contrast: styles/contrast.scss
 mastodon-light: styles/mastodon-light.scss
+bb: styles/bb.scss
+blueberries: styles/blueberries.scss
+pink_currant: styles/pink_currant.scss
+rasp: styles/rasp.scss

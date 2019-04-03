@@ -999,6 +999,10 @@ en:
     contrast: Mastodon (High contrast)
     default: Mastodon (Dark)
     mastodon-light: Mastodon (Light)
+    bb: Blackberry (Dark)
+    blueberries: Blueberry
+    pink_currant: Pink Currant (Light)
+    rasp: Raspberry
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
