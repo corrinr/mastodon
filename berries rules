@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div>
+      <p style="text-align:center;"><a href="#full">Full Rules</a> | <a href="https://berries.space/web/timelines/tag/faq">Tutorials</a> | <a href="#action">Violation Responses</a> | <a href="https://github.com/corrinr/berries-blocklist/blob/master/README.md">Instance Blocklist</a> | <a href="https://github.com/joyeusenoelle/GuideToMastodon/">New to Mastodon?</a> | <a href="http://instances.social">See All Mastodon Instances</a></p>
+      <h1>TLDR Rules</h1>
+      <ul>
+        <li><a href="#age">You must be 13 or older to join.</a></li>
+        <li><a href="#agelist">You must list your age or age range (either "minor" or an age range such as "late 20s") in your bio.</a></li>
+        <li><a href="#NSFW">All NSFW content must be unlisted or followers only. All accounts that plan to post NSFW must be locked and 18+ only. Minors may not post NSFW content.</a></li>
+        <li><a href="#drugs">We do not allow posts about underage drinking or hard drug use; alcohol and drug related posts should be CWed and off the public timeline.</a></li>
+        <li><a href="#prohibit">We do not allow romanticization of pedophilia, incest, sexual assault, violence- especially against minors, or other forms of abuse.</a></li>
+        <li><a href="#pedo">We do not allow child pornography, including "aged up" CP, discussion of minors' sex lives, suggestive art of minors, or suggestive/NSFW content of characters who appear to be minors, regardless of their actual age.</a></li>
+        <li><a href="#celebs">We do not allow content treating celebrities or other real people as if they were fictional characters, such as shipping, "headcanons" about real people, or factkin.</a></li>
+        <li><a href="#cops">Absolutely no Nazis, fascists, white supremacists, or cops.</a></li>
+        <li><a href="#kink">No uncritical discussion of kinks that romanticize abuse or fetishize specific marginalized groups.</a></li>
+        <li><a href="#slur">Slurs are allowed if reclaimed, but may not be directed at other users who are uncomfortable with them and should be CWed where possible.</a></li>
+        <li><a href="#bigot">Discrimination or bigotry against any marginalized group is not allowed. We do not allow TERFs, transmedicalists, or truscum.</a></li>
+        <li><a href="#harass">No harassment, including false reports, malicious trolling, and posts intended to incite arguments. We ask that you make any heated discussions unlisted, or take them to a DM. No ban or block evasion.</a></li>
+        <li><a href="#CW">Use proper content warnings and unlist anything that goes heavily into detail about triggering topics. Users should always warn for suicide, death, self harm, gore, rape, incest, pedophilia, abuse, alcohol or drug use, and NSFW. Use common sense for other content warnings.</a></li>
+        <li><a href="#art">We do not tolerate art reposting or art theft. Properly credit any art used in your icon or header.</a></li>
+        <li><a href="#spam">Spamming public timelines (constant repetitive posts, nonsense words or keysmashes, conversations on the public timeline that make new posts rather than replies) will result in silencing, leading to more severe consequences. Spambots will be deleted.</a></li>
+        <li><a href="#inactive">You may only have 2 inactive saved usernames at a time. After 2 weeks, usernames with unconfirmed email addresses will be released; other usernames will be released after 2 months of consistent inactivity.</a></li>
+        <li><a href="#third-party">No third-party links to content violating the TOS. If you are found to have violations of our rules on any other social media, on or off Mastodon, we will take it into account as if it happened on Berries.</a></li>
+        <li><a href="#avatar">Any banned content or sensitive content may not be in your avatar or header.</a></li>
+      </ul>
+      <p>
+      <h1 style="padding:10px"><a name="full">Full Rules</a></h1>
+      <p>
+      <h2><a name="age">Berries' NSFW and Age Policies</a></h2>
+      <p><b><i>You must be 13 or older to create an account. We do not have the ability to ensure adherence to the Children's Online Privacy Protection Act.</i></b></p>
+      <p>We are committed to making this a safe internet experience for our younger users. If you’re looking for a place to interact with only other adults and post public NSFW, there are many 18+ instances out there that may be a better fit for you.</p>
+      <p><b><i><u><a name="agelist">As of 3/13/19, users on Berries are required to have their age specified somewhere inside their bio.</a></u></i></b> While minors are free to only use the unspecified term "minor" as it covers a limited age range, it is recommended that adults who do not wish to disclose their specific age, especially those over 20 years old, add descriptors such as "Early" or "Late" (i.e. "Late 20's") rather than just "adult".</p>
+      <p><b>We allow NSFW content with the provision that it’s posted unlisted or followers only and that all accounts posting NSFW are locked and 18+ only.</b></p>
+      <p><b>Minors should never post or boost NSFW, including nude or suggestive selfies, art, discussion of personal sex life or sexual preferences, or soliciting sex from other users.</b> Minors are free to discuss sexual education and topics relating to LGBT identities (ex: transition) and make mildly sexual jokes with proper content warnings. Depending on severity, you may receive a warning up to a suspension.</p>
+      <p><b><i>Absolutely all accounts that post serious NSFW (discussion of personal sex life and attitudes towards sex, NSFW flirting, nudes or suggestive selfies, NSFW art) must be locked and inaccessible to minors. No exceptions. </i></b>Locking an account on Mastodon does not work like Twitter: you are still able to make public posts as normal, the only thing it affects is your ability to confirm all followers. We require this as a safety measure to ensure accounts with many followers don’t accidentally allow minors to follow.</p>
+      <p style="margin-bottom:0px;">
+        <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+          <summary><b><a name="NSFW">More clarification on our NSFW policies</a></b></summary>
+          <p>The only NSFW posts that can be public are mild jokes and artistic nudity. You may publicly post cropped or censored versions of NSFW art pieces to promote a NSFW art account as long as the account otherwise follows our rules. <i>Discussion of kink that is not explicitly sexual (e.g. talking about collars or restraints), or discussion or images of sex toys, is still considered NSFW and should not be public.</i></p>
+          <p>Nudes, lingerie photos and suggestive selfies (e.g. shots of cleavage or a person’s thighs) should <i>always</i> be unlisted. If the intent is to make the viewer aroused or attracted to you, it’s suggestive and shouldn’t be shared publicly on a 13+ site.</p>
+        </details>
+      </p>
+      <h2><a name="drugs">Alcohol and Drug Use Policies</a></h2>
+      <p>You are free to post about certain types of alcohol and drug use with proper CWs. However, please keep in mind that we are 13+ and that posts of that nature have the potential to set a bad example for minors and even to get them in trouble with adults in their life. Please do not post about the following:</p>
+      <ul>
+      <li>Underage drinking (below the legal age in your country)</li>
+      <li>Hard drug use in a positive light. Discussing experiences and struggles with addiction is fine with the proper CWs, but a post like "just did a line in the bathroom" will be deleted. Not only does this encourage bad behavior for vulnerable minors who may see it, it's disrespectful and triggering to recovering addicts.</li>
+      <li>Jokes about drug use in an inappropriate context, such as most "crackhead/(x) is on crack" jokes, which trivialize the very real crack epidemic and disproportionate incarceration rates among low income people of color.</li>
+      <li>Posts about buying hard drugs, advice on where to find hard drugs, or advertising the sale of hard drugs</li>
+      <li>Posts encouraging unhealthy or potentially dangerous alcohol use</li>
+      </ul>
+
+      <p>In general, please keep any serious discussion of alcohol use and "drunkposting" unlisted or followers only. Even if it seems harmless, posts like these are potentially triggering for people who have had bad experiences with alcohol or alcoholics in their life, or for recovering alcoholics.</p>
+
+      <p>In most cases, posts of this nature will be cause for a warning; however, depending on the type of substance involved it can lead to a strike or suspension. Advertising the sale of hard drugs will be met with an instant ban.</p>
+
+      <h2><a name="prohibit">Content We Prohibit</a></h2>
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b><a name="pedo">Pedophilia</a></b></summary>
+        <p>We do not allow pedophilic content, endorsement of pedophilia, or anything endorsing known pedophiles, including but not limited to images, art, and written content of both real and fictional people. We strongly discourage discussion or debate over whether specific fictional cases qualify as pedophilia.</p>
+        <p>This specifically includes:</p>
+        <ul>
+          <li>Drawn, written or visual child pornography depicting any real life or fictional minor</li>
+          <li>Speculation or jokes about the sex life, kinks, or genitalia of any real life or fictional minor</li>
+          <li>Any depiction of a romantic relationship between an adult and a character who is under the age of 18 in the source material, whether or not it is explicitly sexual</li>
+          <li>"Aging up" characters who are canonically under 18 for NSFW content</li>
+          <li>Sexual content of a character who retains a childlike appearance and mannerisms despite being "an adult" in their source material</li>
+          <li>NSFW content of media primarily aimed at children, even if the characters are implied to be adults (e.g. Cookie Run, My Little Pony)</li>
+          <li>Suggestive art of minors, e.g. in skimpy or sexualized outfits</li>
+          <li>Any form of age regression kink or ageplay such as DDLG or ABDL</li>
+          <li>Babyfur, lolicon, or shotacon</li>
+          <li>MAPs, NOMAPs, and MAP supporters</li>
+        </ul>
+        <p>Posting or boosting any of the above content is grounds for an immediate suspension.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Incest</b></summary>
+        <p>We do not allow any fictional or real life material that glorifies or supports incestuous relationships. This includes but is not limited to depictions of romantic and/or sexual relationships between siblings, parents and children, cousins, or other relatives, <i>whether or not they are related by blood</i>. Depictions of fictional characters in alternate universes where they are not related are still a violation of this rule. We strongly discourage discussion or debate over whether specific fictional cases qualify as incest.</p>
+        <p>Posting or boosting any of the above content is grounds for an immediate suspension.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Bestiality/Zoophilia</b></summary>
+        <p>Any depiction of sexual acts on or by a real or realistically drawn animal; NSFW of clearly animal characters such as Pokemon; sexual content between realistic furry characters and humans; jokes implying bestiality or zoophilia.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Romanticization of violence; violence against minors</b></summary>
+        <p>Any content depicting graphic violence, torture or gore of minors, or content romanticizing real life violence such as serial killers.</p>
+      </details>
+
+      <p>
+
+     <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+         <summary><b><a name="celebs">Violations of privacy of real life people, e.g. shipping, "headcanons" about celebrities, and factkin</a></b></summary>
+         <p>We do not tolerate serious shipping of real people (actors, band members, Youtubers....), and users who post such content will be suspended. Please do not "headcanon" the sexualities, gender identities, or other identities of real people as if they were fictional characters. We are generally otherkin friendly, but because factkin claim in some sense to be an incarnation of a real person, we do not tolerate them here. This includes Youtubers who have "personas", as well as media like Hamilton that is about real people.</p>
+       </details>
+
+       <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b><a name="cops">Nazism, fascism, white supremacy</b></summary>
+        <p>Any endorsement of these ideologies is cause for an instant ban. Additionally, images of swastikas or other Nazi imagery, any Nazi flagging such as the use of 14/88 or phrases emulating the 14 words, Confederate flag imagery, or any white supremacist flagging are never allowed on Berries and will be cause for suspension.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Cops, support of cops, "blue lives matter" ideology</b></summary>
+        <p>We defederate with any account or instance found to be run by a cop.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b><a name="kink">Certain kinks or fetishes</a></b></summary>
+        <p>We aren’t the best place for kink, but we do generally allow it if it follows the NSFW rules above. However, we prohibit uncritical discussion/endorsement of any kink that is nonconsensual or dubiously consensual, or romanticizes lack of consent; dangerous or potentially fatal; based in romanticization of incest or pedophilia, or sexualizes children’s toys or other objects primarily for children; or fetishizes a specific race, gender identity or body type.</p>
+        <p>Examples: trap/futa, any kink fetishizing fat people, CNC/rape play, race play, abduction, forced body modification, hypnosis kink, necrophilia, snuff, somnophilia, teacher/student, IRL cannibalism/vore kink or any kink involving mutilation</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b><a name="slur">Slurs that you cannot reclaim, or slurs directed at another user who is uncomfortable with them</a></b></summary>
+        <p>Users are free to reclaim slurs for themselves, in conversation with others who are comfortable, or in their username, display name or bio. Please keep in mind that other users may have varying levels of comfort with certain slurs and use content warnings at your discretion, especially if posting to the public timeline. You may be asked by a mod to use a CW for a reclaimed slur. However, slurs directed at another user without their permission or in a violent or harassing manner, or the use of slurs which you cannot reclaim, are not acceptable and will result in action against your account depending on the context and severity of the situation.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b><a name="bigot">Discrimination or bigotry against marginalized groups</a></b></summary>
+        <p>This includes the endorsement of users or public figures who promote discrimination or bigotry. Most should be self explanatory, but where necessary there are clarifications of types of bigotry that are not as commonly made explicitly prohibited.</p>
+        <ul>
+          <li><b>Racism</b>: blackface, yellowface, etc.; whitewashed art or graphics; mocking the accents or languages of people of color; appropriation of AAVE by nonblack users; general cultural appropriation, including the use of languages such as Japanese as an aesthetic; racist slurs or derogatory terms.</li>
+          <li><b>Sexism</b></li>
+          <li><b>Antisemitism</b>: Hitler jokes; caricatures of Jewish people; mocking commonly Jewish features, such as large noses or thick eyebrows; blood libel; “lizard people” jokes, which reference antisemitic conspiracy theories about how Jewish people secretly control the world; Nazi uniforms or similar imagery in costumes, and characters who evoke Nazi imagery; defamatory generalizations.</li>
+          <li><b>Islamophobia</b>:suicide bombing jokes; racist parodies of Muslims; claims that Islam is sexist/violent; mocking or appropriating the hijab; defamatory generalizations.</li>
+          <li><b>Homophobia, lesbophobia, biphobia.</b></li>
+          <li><b>Transphobia</b>: repeated and/or intentional misgendering of any user or other trans person; harassing, mocking or vaguing any user or group of users for their gender identity or pronoun choice.</li>
+            <ul>
+              <li>We will automatically permaban users who are found to be affiliated with specific groups that discriminate against LGBT individuals, such as “radical feminists”/”gender critical”, “transmedicalists”, and “truscum”. This instance welcomes trans and nonbinary individuals and will not tolerate users who will create an unsafe environment for them.</li>
+            </ul>
+          <li><b>Fatphobia</b></li>
+          <li><b>Ableism</b></li>
+          <li><b>Other bigotry</b>: content disrespecting or mocking other groups such as asexual or aromantic people, HIV positive people, sex workers, addicts, or survivors of any type of abuse, as well as any other marginalized group not mentioned</li>
+        </ul>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b><a name="harass">Harassment</a></b></summary>
+        <p>Examples:</p>
+        <ul>
+          <li>Stalking</li>
+          <li>Unwelcome and repeated interaction</li>
+          <li>Bullying or harassing posts or messages</li>
+          <li>Block or ban evasion</li>
+          <li>Sexual harassment</li>
+          <li>False and needless reports also fall under harassment and are grounds for action to be taken against your own account; if excessive enough, it will be met with a ban.</li>
+          <li>Malicious vagues; in general, please try to avoid vaguing other users, especially on the public timeline.</li>
+          <li>Certain forms of trolling</li>
+          <li>Posts intended to incite arguments or provoke certain users or groups; it's fine to have political discussions, but if an argument gets too heated, please restrict posts to your own followers or take it to a DM.</li>
+        </ul>
+      </details>
+
+      <p>
+
+      <h2><a name="CW">Content Warnings</a></h2>
+      <p>Please use appropriate <a href="https://berries.space/@espeon/101265973560499735" title="Tutorial">content warnings</a> and <a href="https://berries.space/@espeon/101265975410381180" title="Tutorial">post visibility settings</a> for all posts. Appropriate content warnings are specific enough to make it clear what you might see when you open the post, and should not use abbreviations for serious topics, such as “sui” or “alc.” <a href="https://berries.space/@mods/101429206770732800">We discourage the use of “lewd” as a content warning</a>, especially on its own. Whenever possible, please type out the full word of what you are warning for so that people are able to blacklist it using Mastodon’s <a href="https://berries.space/@espeon/101265958467756738" title="Tutorial">filter system</a>.</p>
+      <p><b><i>Topics that must always be warned for:</i></b></p>
+      <ul style="list-style:none;">
+        <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+          <summary><b>Suicide</b></summary>
+          <p>Any discussion of suicide or suicidal ideation, including jokes; this includes “I want to not exist” type of statements.</p>
+        </details>
+
+      <p>
+
+      </li>
+        <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+          <summary><b>Self Harm</b></summary>
+          <p>Drawn or irl images, including images of self harm scars; discussion or jokes about any form of self injury.</p>
+        </details>
+
+      <p>
+
+      </li>
+        <li><b>Death (human or animal)</b></li>
+        <p>
+        <li><b>Graphic gore/violence/injury, body horror</b></li>
+        <p>
+        <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+          <summary><b>Rape and sexual assault</b></summary>
+          <p>We do not allow rape jokes or any nonconsensual/dubiously consensual “kink.” You are welcome to warn for assault in media or discuss your experiences as a survivor. (<a href="#kink">more in depth rule</a>)</p>
+        </details>
+
+      <p>
+
+      </li>
+        <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+          <summary><b>Incest</b></summary>
+          <p>Refer to <a href="#incest">more in depth rule</a>. As above, you may post trigger warnings or your experiences.</p>
+        </details>
+
+        <p>
+
+        </li>
+        <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+          <summary><b>Pedophilia</b></summary>
+          <p>Refer to <a href="#pedo">more in depth rule</a>. The above applies as well. You may also want to tag CSA, or COCSA if that applies.</p>
+        </details>
+
+        <p>
+
+        </li>
+        <li><b>Abuse</b></li>
+        <p>
+        <li><b>Alcohol and drug use</b>, especially addiction</li>
+        <p>
+        <li><b>Nudity including any images of bare chests, pornography, NSFW text, or suggestive images</b>. (<a href="#NSFW">more in depth rule</a>)</li>
+        <p>
+      </ul>
+      <p>Improperly CWed posts will be deleted by a mod and you will be warned. Multiple improperly CWed posts, especially about very triggering topics and on multiple occasions, may be cause for a strike. An explanation of violation responses can be found <a href="#action">here</a>.</p>
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Okay to post on public with a CW</b></summary>
+        <p>Trigger warnings for media, news, etc.; discussion of current events that fall into one of the “must CW” categories; mild drawn gore and body horror; mild alcohol or drug references; mildly NSFW jokes; mild death mentions; artistic nudity.</p>
+        <p>Other topics in the “must CW” category should always be unlisted or followers only, especially posts that go in depth about a triggering subject.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Other common content warnings</b></summary>
+        <p>Personal talk and certain topics are often CWed positive/negative/neutral as a courtesy; these are sometimes abbreviated +, -, ~. Ex. “mh (~)” or “uspol, neg”</p>
+        <ul>
+          <li>Politics (commonly abbreviated pol or [country]pol)</li>
+          <li>Mental health (mh)</li>
+          <li>Venting</li>
+          <li>Physical health (ph)</li>
+          <li>Spoilers for new/popular media</li>
+          <li>Liveblogging (you may want to make this unlisted as a courtesy)</li>
+          <li>Selfies/Eye contact (ec)</li>
+          <li>Insects/spiders</li>
+          <li>Menstruation</li>
+          <li>Dysphoria</li>
+          <li>Slurs</li>
+          <li>Racism, antisemitism, homophobia, transphobia, etc</li>
+          <li>Flashing/rapidly moving GIFs</li>
+          <li>Text that is not screen reader friendly or is difficult to read for people with language processing or visual issues, such as typing quirks or symbol heavy text (l1k3 th15)</li>
+          <li>Long posts with large images</li>
+        </ul>
+        <p>You may be asked by a mod to delete and redraft a post with a better CW, even if it doesn’t fall into this category. Please use your common sense and warn for anything that may be upsetting or disrupting for others.</p>
+        <p>If you have less common triggers or things you don’t want to see, we suggest using the <a href="https://berries.space/@espeon/101265958467756738">filtering system</a>. If someone you follow has been asked to CW something for you and refuses, a mod can step in if necessary, but you have a lot of control over what you see on Berries and it may be best to block or mute.</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Example of good content warnings</b></summary>
+        <p>CW: drawn gore/eye horror</p>
+        <p>[a drawn image of an injured eye]</p>
+        <p>&nbsp;</p>
+        <p>CW: NSFW, nudity (bare chest)</p>
+        <p>[an image of a person shirtless]</p>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Example of unclear content warnings</b></summary>
+        <p>CW: sh</p>
+        <p>[graphic depiction of self harm]</p>
+        <p>&nbsp;</p>
+        <p>CW: bad</p>
+        <p>[graphic discussion of suicidal thoughts]</p>
+        <p>&nbsp;</p>
+        <p>CW: vent</p>
+        <p>[discussion of assault]</p>
+        <p>&nbsp;</p>
+        <p>CW: lewd</p>
+        <p>[full nude]</p>
+      </details>
+
+      <p>
+
+      <h2><a name="art">Other Content Policies</a></h2>
+      <p>Creative content you post should be your own original property or credited to the appropriate person and posted with permission. Do not repost art or other original creative content from other berries.space users or from external sites without permission. Do not claim credit for any intellectual property which you did not originally create or post images altered to remove watermarks or signatures. If you did not create your avatar or header, please credit the creator somewhere in your profile.</p>
+      <p><a name="spam">No spam</a>, including spam links or posts, excessive advertising and the creation of spambot accounts or large numbers of accounts. Spam bot accounts or suspicious accounts will be terminated.</p>
+      <p>Please do not spam the public timeline with several posts in a couple of minutes, excessive amounts of posts over a longer timeframe, or posts intended to take advantage of the timeline to have full conversations without the use of replies. Spamming the public timeline will result in silencing for increasingly long periods with each offense, leading to a strike.</p>
+      <p><a name="inactive">While</a> saving a couple of usernames to switch around later on is acceptable, you may not own more than 2 inactive accounts without regular human activity. Accounts that remain inactive for over 2 months will be suspended and their URLs released. Accounts with an unconfirmed email for over two weeks will also be suspended and their URLs released. Creation of extreme numbers of accounts will be cause for suspension of the user’s primary active accounts.</p>
+      <p><a name="third-party">No</a> links to third-party sites of any nature that violate our rules. Any content posted on other social media accounts, on or off Mastodon, will be taken into account in serious moderation decisions. If we receive a report about a user’s post or account off Berries that breaks Berries rules, we will respond the same as we would any other report. We may ban new users whose other social media is clearly inappropriate for Berries, such as users who have accounts on instances incompatible with our rules.</p>
+      <p><a name="avatar">Your</a> avatar and header may not contain content of any banned or restricted category, including any category prohibited in the above rules or any content that must be warned for. All avatars and headers must be safe for work and should not be excessively flashing GIFs or other potential migraine or seizure triggers.</p>
+      <h1>How We Moderate</h1>
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Mods are able to</b></summary>
+        <ul>
+          <li>Remove avatars and headers that violate our rules</li>
+          <li>View and change users' email addresses; we only change emails either to release the URL of a suspended account to a user who requests it, or to correct a misspelled email address.</li>
+          <li>Confirm accounts and resend confirmation emails</li>
+          <li>View users' most recent IP addresses; generally we do not save or track IPs and will only use this in cases of ban evasion or with dangerous users.</li>
+          <li>View the last time a user was active on their account and the date and time of account creation</li>
+          <li>Disable login for users; we do not use this feature, but Mastodon makes it available to us</li>
+          <li>See all posts except DMs through the moderation interface, and delete or mark sensitive posts that violate the rules</li>
+          <li>See DMS <i>only if they are reported</i></li>
+          <li>Send warnings by email; we generally only use this in certain cases when giving a strike to a user.</li>
+          <li>Silence an account, which forces all their posts to be unlisted so none of them will show up on public timelines</li>
+          <li>Suspend an account; we almost always send an email explanation now that Mastodon has a native warning system, except in cases like spambots</li>
+          <li>Silence instances, which keeps their posts off of our federated timeline but still allows users to follow and be followed by them</li>
+          <li>Defederate with instances, which blocks them from interacting with our users or posting to our federated timeline (<a href="https://github.com/corrinr/berries-blocklist/blob/master/README.md">list of suspended and silenced instances)</a></li>
+          <li>Delete Berries' copy of a post from an off instance user; this removes the copy stored on our server from our federated timeline, but does nothing to the original post on the other instance</li>
+          <li>Silence an off instance account, which keeps their posts off of our federated timeline but still allows users to follow and be followed by them</li>
+          <li>Suspend an off instance account, which defederates them and blocks them from interacting with our users or posting to our federated timeline, but does nothing to the original account on the other instance</li>
+        </ul>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b>Mods are not able to</b></summary>
+        <ul>
+          <li>See or change your password</li>
+          <li>See or change your blocked or muted list</li>
+          <li>See or change your list of filters</li>
+          <li>Change your avatar or header</li>
+          <li>See any personal information, such as your legal name or date of birth</li>
+          <li>See any posts you have deleted</li>
+          <li>Edit any posts you make, e.g. add a content warning</li>
+          <li>Mark off instance posts sensitive</li>
+      </details>
+
+      <p>
+
+      <details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+        <summary><b><a name="action">Possible responses to rule violations</a></b></summary>
+        <ul>
+          <li>Post deletion</li>
+          <li>Marking a post sensitive</li>
+          <li>Removal of avatar or header</li>
+          <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+            <summary><b>Warning</b></summary>
+              <p>DMed warning by a mod explaining what rule you violated; usually the post in question is deleted or marked sensitive.</p>
+            </details>
+          </li>
+          <p>
+          <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+            <summary><b>Strike</b></summary>
+            <p>Occurs either after multiple infractions, or one very serious infraction that is not grounds for suspension on its own. We keep track of users with strikes and number of strikes. Three strikes, or sometimes less in certain cases, is grounds for suspension. We will both DM and email a warning that you have received a strike.</p>
+          </details>
+          </li>
+          <p>
+          <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+            <summary><b>Silencing</b></summary>
+            <p>Forces all posts to be unlisted so none of them will show up on public timelines. Generally, we use this in cases of spammy posts, NSFW or triggering posting on public, or along with a strike or serious warning. Silences are removed after a set time limit which will increase after the first time a user has to be silenced.</p>
+          </details>
+          </li>
+          <p>
+          <li><details style="background-color:rgba(0,0,0,.3); padding:10px; border-radius:5px;">
+            <summary><b>Suspension</b></summary>
+            <p>A ban. Most prohibited content will mean an instant suspension, although in some cases it may only be a warning or strike. We will also suspend after multiple strikes. Even if we suspend with no warning, you will always receive an email explanation.</p>
+          </details>
+          </li>
+        </ul>
+      </details>
+    </div>
+  </body>
+</html>
